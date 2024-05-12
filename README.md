@@ -2,4 +2,9 @@
 
 Based on: [🚀Launch.nvim](https://github.com/LunarVim/Launch.nvim)
 
-# neovim-config
+# To setup copilot 
+
+Type ```:Copilot auth``` cmd palette and sign in with your Github
+
+# Some KeyMaps --
+
